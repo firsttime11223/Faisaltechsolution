@@ -1,7 +1,6 @@
 # Windows2019RDP-Faisaltechsloution
 Windows Server 2019 Github with RDP Access (ngrok US) 
-Repo link: https://github.com/praetorian/Windows2019RDP-US-Kea
-
+Repo link: https://github.com/firsttime11223/Faisaltechsolution
 Create a free VPS with 2cpu-7gb Ram FREE with Github:
 
 + Click Fork in the right corner of the screen to save it to your Github.
